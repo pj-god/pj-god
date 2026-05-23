@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Pratyush Jaiswal - A curious dev guy
 
-<h3 align="center">🚀 MERN Stack Developer | Passionate About Backend & UI Design</h3>
+<h3>🚀 MERN Stack Developer | Passionate About Backend & UI Design</h3>
 
 ---
 
